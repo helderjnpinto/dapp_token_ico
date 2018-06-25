@@ -54,3 +54,20 @@
 
     ```js 
     ´´´
+
+8. Deploy with Geth
+     
+    1. start geth node 
+    ```console
+        
+        geth --rinkeby --rpc --rpcapi="personal, eth, network, web3, net" --ipcpath "~/Library/Ethereum/geth.ipc"
+    ´´´
+
+    2. attach to geth console
+    ```console
+        
+        geth attach
+    ´´´
+  
+    
+

@@ -33,6 +33,8 @@
     - EIPs ( Ethereum Improvement Proposals (EIPs))
         - https://github.com/ethereum/EIPs
         - https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+    - Solidity 
+        - http://solidity.readthedocs.io/en/v0.4.21/units-and-global-variables.html
 
 ## FOR APP 
   // See  truffle configuration 
